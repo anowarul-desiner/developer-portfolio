@@ -8,3 +8,21 @@ h1{
 .name-color{
     color: darkorange;
 }
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+}
+.half-width img{
+    width: 80%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(darkorange, rgb(185, 49, 49));
+    background-color: darkorange;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 8px;
+}
