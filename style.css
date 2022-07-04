@@ -10,7 +10,7 @@ h1{
 .name-color{
     color: darkorange;
 }
-section{
+.flaxible-container{
     display: flex;
     margin-bottom: 200px;
 }
